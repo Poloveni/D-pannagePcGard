@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ── BALISES PRIMAIRES ── -->
+<title>Dépannage PC Nîmes | Montage Gaming Gard — Paul, Expert 15 ans</title>
+<meta name="description" content="Dépannage PC rapide à domicile à Nîmes et dans le Gard. Montage PC gaming sur mesure, suppression virus, récupération données. Devis gratuit. Intervention sous 24h.">
+<meta name="keywords" content="dépannage PC Nîmes, réparation informatique Gard, montage PC gaming Nîmes, technicien informatique Nîmes, récupération données Gard, suppression virus Nîmes, upgrade PC Gard 30">
+<meta name="author" content="Paul — Dépannage PC Gard">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.depannagepcgard.fr/">
+
+<!-- ── OPEN GRAPH ── -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.depannagepcgard.fr/">
+<meta property="og:title" content="Dépannage PC Nîmes | Montage PC Gaming Gard — Expert 15 ans">
+<meta property="og:description" content="Dépannage PC rapide à domicile à Nîmes et dans le Gard. Montage PC gaming sur mesure, suppression virus, récupération données. Devis gratuit. Intervention sous 24h.">
+<meta property="og:image" content="https://www.depannagepcgard.fr/wp-content/uploads/2026/01/Logo-250x250-1.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Dépannage PC Gard">
+<meta property="og:locale" content="fr_FR">
+
+<!-- ── TWITTER CARD ── -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dépannage PC Nîmes | Montage PC Gaming Gard — Expert 15 ans">
+<meta name="twitter:description" content="Dépannage PC rapide à domicile à Nîmes. Montage PC gaming sur mesure dans le Gard. Devis gratuit. Intervention 24h.">
+<meta name="twitter:image" content="https://www.depannagepcgard.fr/wp-content/uploads/2026/01/Logo-250x250-1.png">
+
+<!-- ── GÉO-LOCALISATION ── -->
+<meta name="geo.region" content="FR-30">
+<meta name="geo.placename" content="Nîmes, Gard">
+<meta name="geo.position" content="43.8367;4.3601">
+<meta name="ICBM" content="43.8367, 4.3601">
+
+<!-- ── FONTS ── -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<!-- ── JSON-LD SCHEMA.ORG ── -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://www.depannagepcgard.fr/#business",
+      "name": "Dépannage PC Gard",
+      "alternateName": "Dépannage PC Nîmes",
+      "description": "Expert en dépannage PC, montage PC gaming sur mesure et création de sites web à Nîmes et dans le Gard depuis 15 ans.",
+      "image": "https://www.depannagepcgard.fr/wp-content/uploads/2026/01/Logo-250x250-1.png",
+      "url": "https://www.depannagepcgard.fr",
+      "telephone": "+33637127688",
+      "email": "contact@depannagepcgard.fr",
+      "priceRange": "17€ - 3500€+",
+      "currenciesAccepted": "EUR",
+      "paymentAccepted": "Virement, Chèque",
+      "foundingDate": "2010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nîmes",
+        "addressRegion": "Occitanie",
+        "postalCode": "30000",
+        "addressCountry": "FR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.8367,
+        "longitude": 4.3601
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+        "opens": "08:00",
+        "closes": "19:00"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Nîmes"},
+        {"@type": "City", "name": "Alès"},
+        {"@type": "City", "name": "Uzès"},
+        {"@type": "City", "name": "Beaucaire"},
+        {"@type": "City", "name": "Sommières"},
+        {"@type": "City", "name": "Vauvert"},
+        {"@type": "City", "name": "Marguerittes"},
+        {"@type": "AdministrativeArea", "name": "Gard"}
+      ],
+      "sameAs": [
+        "https://www.google.com/maps/place/D%C3%A9pannage+PC+Gard/@43.9599533,4.0540078"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "29",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.depannagepcgard.fr/#paul",
+      "name": "Paul",
+      "jobTitle": "Expert Informatique & Technicien PC Gaming",
+      "worksFor": {"@id": "https://www.depannagepcgard.fr/#business"}
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.depannagepcgard.fr/#website",
+      "url": "https://www.depannagepcgard.fr",
+      "name": "Dépannage PC Gard",
+      "publisher": {"@id": "https://www.depannagepcgard.fr/#business"},
+      "inLanguage": "fr-FR"
+    }
+  ]
+}
+</script>
+
+<style>
+/* ═══════════ VARIABLES ═══════════ */
+:root {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #0f0f17;
+  --bg-card: #141420;
+  --bg-card-hover: #1a1a2e;
+  --border: rgba(255,255,255,0.06);
+  --border-hover: rgba(0,200,255,0.2);
+  --text-primary: #e8e8f0;
+  --text-secondary: #8888a0;
+  --text-muted: #55556a;
+  --cyan: #00d4ff;
+  --purple: #8b5cf6;
+  --green: #22d97f;
+  --orange: #ff6b35;
+  --pink: #ff3e9a;
+  --gradient: linear-gradient(135deg, #00d4ff 0%, #8b5cf6 50%, #ff3e9a 100%);
+  --glow-cyan: 0 0 30px rgba(0,212,255,0.15);
+  --glow-pink: 0 0 30px rgba(255,62,154,0.15);
+  --font-display: 'Chakra Petch', sans-serif;
+  --font-body: 'Outfit', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --radius: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+}
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:var(--font-body);background:var(--bg-primary);color:var(--text-primary);line-height:1.6;overflow-x:hidden}
+a{text-decoration:none;color:inherit}
+img{max-width:100%;display:block}
+ul{list-style:none}
+
+body::before{content:'';position:fixed;inset:0;z-index:9999;pointer-events:none;opacity:0.02;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+
+.grid-bg{position:fixed;inset:0;z-index:0;background-image:linear-gradient(rgba(0,212,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(0,212,255,0.03) 1px,transparent 1px);background-size:60px 60px;mask-image:radial-gradient(ellipse at 50% 30%,black,transparent 70%)}
+
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-track{background:var(--bg-primary)}
+::-webkit-scrollbar-thumb{background:var(--cyan);border-radius:3px}
+
+.container{max-width:1200px;margin:0 auto;padding:0 24px}
+.section{position:relative;z-index:1;padding:100px 0}
+.section-alt{background:var(--bg-secondary)}
+
+.section-label{font-family:var(--font-mono);font-size:0.72rem;letter-spacing:3px;text-transform:uppercase;color:var(--cyan);margin-bottom:12px;display:flex;align-items:center;gap:10px}
+.section-label::before{content:'';width:24px;height:1px;background:var(--cyan)}
+.section-title{font-family:var(--font-display);font-size:clamp(1.8rem,4vw,2.8rem);font-weight:700;line-height:1.15;margin-bottom:16px}
+.section-subtitle{color:var(--text-secondary);font-size:1.05rem;max-width:600px;line-height:1.7}
+
+.btn{display:inline-flex;align-items:center;gap:8px;padding:13px 26px;border-radius:10px;font-family:var(--font-body);font-weight:600;font-size:0.88rem;cursor:pointer;border:none;transition:all 0.25s}
+.btn-primary{background:var(--cyan);color:var(--bg-primary)}
+.btn-primary:hover{background:#33dfff;box-shadow:var(--glow-cyan);transform:translateY(-2px)}
+.btn-secondary{background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.1);color:var(--text-primary)}
+.btn-secondary:hover{background:rgba(255,255,255,0.1);border-color:rgba(255,255,255,0.2);transform:translateY(-2px)}
+.btn-accent{background:rgba(255,62,154,0.1);border:1px solid rgba(255,62,154,0.25);color:var(--pink)}
+.btn-accent:hover{background:var(--pink);color:#fff;transform:translateY(-2px);box-shadow:var(--glow-pink)}
+.btn-orange{background:rgba(255,107,53,0.1);border:1px solid rgba(255,107,53,0.25);color:var(--orange)}
+.btn-orange:hover{background:var(--orange);color:#fff;transform:translateY(-2px)}
+
+/* NAV */
+.nav{position:fixed;top:0;left:0;right:0;z-index:1000;padding:14px 0;background:rgba(10,10,15,0.8);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);transition:all 0.3s}
+.nav.scrolled{background:rgba(10,10,15,0.95);box-shadow:0 4px 30px rgba(0,0,0,0.3)}
+.nav-inner{display:flex;align-items:center;justify-content:space-between;max-width:1200px;margin:0 auto;padding:0 24px}
+.nav-brand{display:flex;align-items:center;gap:10px}
+.nav-logo{width:36px;height:36px;border-radius:8px;object-fit:contain;background:#fff;padding:3px;box-shadow:0 0 12px rgba(0,212,255,0.15)}
+.nav-name{font-family:var(--font-display);font-weight:700;font-size:0.95rem}
+.nav-name span{color:var(--cyan)}
+.nav-links{display:flex;align-items:center;gap:28px}
+.nav-links a{font-size:0.82rem;font-weight:500;color:var(--text-secondary);letter-spacing:0.5px;transition:color 0.2s;position:relative}
+.nav-links a:hover{color:var(--text-primary)}
+.nav-links a::after{content:'';position:absolute;bottom:-4px;left:0;width:0;height:2px;background:var(--cyan);transition:width 0.3s}
+.nav-links a:hover::after{width:100%}
+.nav-cta{padding:8px 18px;background:var(--cyan);color:var(--bg-primary)!important;font-weight:600;border-radius:8px;font-size:0.82rem;transition:all 0.2s}
+.nav-cta:hover{background:#33dfff;box-shadow:var(--glow-cyan)}
+.nav-cta::after{display:none!important}
+.nav-toggle{display:none;background:none;border:none;cursor:pointer;z-index:1001;padding:4px}
+.burger-line{display:block;width:24px;height:2px;background:var(--text-primary);border-radius:2px;transition:all 0.3s;margin:5px 0}
+.nav-toggle.active .burger-line:nth-child(1){transform:rotate(45deg) translate(5px,5px)}
+.nav-toggle.active .burger-line:nth-child(2){opacity:0}
+.nav-toggle.active .burger-line:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
+.mobile-overlay{position:fixed;inset:0;z-index:999;background:rgba(10,10,15,0.98);backdrop-filter:blur(24px);display:flex;align-items:center;justify-content:center;opacity:0;pointer-events:none;transition:opacity 0.35s}
+.mobile-overlay.active{opacity:1;pointer-events:all}
+.mobile-nav{text-align:center}
+.mobile-nav li{margin:16px 0;transform:translateY(20px);opacity:0;transition:all 0.4s}
+.mobile-overlay.active .mobile-nav li{transform:translateY(0);opacity:1}
+.mobile-nav li:nth-child(1){transition-delay:0.05s}.mobile-nav li:nth-child(2){transition-delay:0.1s}.mobile-nav li:nth-child(3){transition-delay:0.15s}.mobile-nav li:nth-child(4){transition-delay:0.2s}.mobile-nav li:nth-child(5){transition-delay:0.25s}.mobile-nav li:nth-child(6){transition-delay:0.3s}.mobile-nav li:nth-child(7){transition-delay:0.35s}.mobile-nav li:nth-child(8){transition-delay:0.4s}.mobile-nav li:nth-child(9){transition-delay:0.45s}
+.mobile-nav a{font-family:var(--font-display);font-size:1.3rem;font-weight:600;color:var(--text-primary);padding:10px 28px;display:block;border-radius:var(--radius);border:1px solid transparent;transition:all 0.3s}
+.mobile-nav a:hover{color:var(--cyan);border-color:var(--border-hover);background:rgba(0,212,255,0.04)}
+
+/* HERO */
+.hero{position:relative;z-index:1;min-height:100vh;display:flex;align-items:center;padding-top:80px;overflow:hidden}
+.hero-orb{position:absolute;border-radius:50%;filter:blur(120px);opacity:0.25;animation:orb-float 10s ease-in-out infinite}
+.hero-orb-1{width:500px;height:500px;background:var(--cyan);top:-15%;right:-10%}
+.hero-orb-2{width:400px;height:400px;background:var(--purple);bottom:-15%;left:-8%;animation-delay:-4s}
+.hero-orb-3{width:250px;height:250px;background:var(--pink);top:40%;left:45%;opacity:0.12;animation-delay:-7s}
+@keyframes orb-float{0%,100%{transform:translate(0,0) scale(1)}50%{transform:translate(20px,-25px) scale(1.05)}}
+.hero-content{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+.hero-tag{display:inline-flex;align-items:center;gap:8px;padding:6px 14px;background:rgba(0,212,255,0.07);border:1px solid rgba(0,212,255,0.18);border-radius:100px;font-family:var(--font-mono);font-size:0.7rem;color:var(--cyan);letter-spacing:1px;text-transform:uppercase;margin-bottom:24px;animation:fadeUp 0.6s ease both}
+.hero-tag .dot{width:6px;height:6px;background:var(--green);border-radius:50%;animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+.hero h1{font-family:var(--font-display);font-size:clamp(2rem,4.5vw,3.4rem);font-weight:700;line-height:1.1;margin-bottom:20px;animation:fadeUp 0.6s ease 0.1s both}
+.gradient-text{background:var(--gradient);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.hero-desc{color:var(--text-secondary);font-size:1.05rem;line-height:1.8;margin-bottom:32px;max-width:500px;animation:fadeUp 0.6s ease 0.2s both}
+.hero-desc .hl{color:var(--cyan);font-weight:600}
+.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:40px;animation:fadeUp 0.6s ease 0.3s both}
+.hero-stats{display:flex;gap:32px;animation:fadeUp 0.6s ease 0.4s both}
+.stat-val{font-family:var(--font-display);font-size:1.4rem;font-weight:700;color:var(--cyan)}
+.stat-lbl{font-size:0.75rem;color:var(--text-muted);letter-spacing:0.5px}
+@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.hero-visual{position:relative;animation:fadeUp 0.8s ease 0.3s both}
+.hero-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-xl);padding:28px;position:relative;overflow:hidden}
+.hero-card::before{content:'';position:absolute;inset:0;background:linear-gradient(145deg,rgba(0,212,255,0.06),rgba(139,92,246,0.06));pointer-events:none}
+.hc-header{display:flex;align-items:center;gap:8px;margin-bottom:20px;font-family:var(--font-mono);font-size:0.72rem;color:var(--text-muted)}
+.hc-dot{width:8px;height:8px;border-radius:50%}
+.hc-dot-r{background:var(--orange)}.hc-dot-y{background:#fbbf24}.hc-dot-g{background:var(--green)}
+.spec-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.spec-item{background:rgba(255,255,255,0.025);border:1px solid var(--border);border-radius:var(--radius);padding:14px;transition:all 0.3s}
+.spec-item:hover{border-color:var(--border-hover);background:rgba(0,212,255,0.03)}
+.spec-lbl{font-family:var(--font-mono);font-size:0.62rem;color:var(--text-muted);letter-spacing:2px;text-transform:uppercase;margin-bottom:3px}
+.spec-val{font-family:var(--font-display);font-weight:600;font-size:0.95rem}
+.hc-footer{margin-top:16px;padding-top:16px;border-top:1px solid var(--border);display:flex;justify-content:space-between;align-items:center}
+.hc-price{font-family:var(--font-display);font-size:1.5rem;font-weight:700;color:var(--green)}
+.hc-price span{font-size:0.78rem;color:var(--text-muted);font-weight:400}
+.hc-badge{background:rgba(34,217,127,0.1);border:1px solid rgba(34,217,127,0.2);color:var(--green);padding:5px 12px;border-radius:100px;font-size:0.72rem;font-weight:600}
+.float-badge{position:absolute;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:9px 14px;display:flex;align-items:center;gap:8px;font-size:0.8rem;font-weight:500;box-shadow:0 10px 40px rgba(0,0,0,0.3);z-index:2}
+.float-top{top:-14px;right:-14px}.float-bot{bottom:-14px;left:-14px}
+.fi{width:26px;height:26px;border-radius:7px;display:flex;align-items:center;justify-content:center;font-size:0.8rem}
+.fi-cyan{background:rgba(0,212,255,0.12)}.fi-green{background:rgba(34,217,127,0.12)}
+
+/* ABOUT */
+.about-grid{display:grid;grid-template-columns:360px 1fr;gap:60px;align-items:center;margin-top:48px}
+.about-photo-wrap{position:relative;display:flex;justify-content:center}
+.about-photo{width:280px;height:280px;border-radius:50%;object-fit:cover;border:3px solid rgba(0,212,255,0.3);box-shadow:0 0 50px rgba(0,212,255,0.12);position:relative;z-index:1}
+.about-photo-wrap::before{content:'';position:absolute;width:310px;height:310px;border-radius:50%;border:2px dashed rgba(0,212,255,0.15);top:50%;left:50%;transform:translate(-50%,-50%);animation:spin 20s linear infinite}
+@keyframes spin{to{transform:translate(-50%,-50%) rotate(360deg)}}
+.xp-badge{position:absolute;bottom:10px;right:20px;width:90px;height:90px;background:linear-gradient(135deg,var(--orange),var(--pink));border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:0 10px 30px rgba(255,107,53,0.4);z-index:2;border:4px solid var(--bg-primary)}
+.xp-num{font-family:var(--font-display);font-size:2rem;font-weight:700;color:#fff;line-height:1}
+.xp-txt{font-size:0.55rem;font-weight:700;color:#fff;text-transform:uppercase;text-align:center;line-height:1.1}
+.about-intro{font-size:1.1rem;line-height:1.8;color:var(--text-secondary);margin-bottom:28px}
+.hl-grid{display:flex;flex-direction:column;gap:14px;margin-bottom:28px}
+.hl-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:18px 20px;display:flex;gap:16px;align-items:flex-start;transition:all 0.3s}
+.hl-card:hover{border-color:var(--border-hover);transform:translateX(6px)}
+.hl-icon{width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:1.1rem}
+.hl-card h4{font-family:var(--font-display);font-size:0.95rem;font-weight:600;color:var(--cyan);margin-bottom:4px}
+.hl-card p{font-size:0.88rem;color:var(--text-secondary);line-height:1.5}
+
+/* ═══ TARIFS (remplace Services) ═══ */
+.tarif-block{margin-bottom:22px}
+.tarif-header{display:flex;align-items:center;gap:14px;padding:14px 20px;border-radius:var(--radius) var(--radius) 0 0;margin-bottom:2px}
+.tarif-header.t-cyan  {border-left:4px solid var(--cyan);  background:linear-gradient(90deg,rgba(0,212,255,0.1),transparent)}
+.tarif-header.t-orange{border-left:4px solid var(--orange);background:linear-gradient(90deg,rgba(255,107,53,0.1),transparent)}
+.tarif-header.t-purple{border-left:4px solid var(--purple);background:linear-gradient(90deg,rgba(139,92,246,0.1),transparent)}
+.tarif-header.t-yellow{border-left:4px solid #fbbf24;      background:linear-gradient(90deg,rgba(251,191,36,0.1),transparent)}
+.tarif-header.t-green {border-left:4px solid var(--green); background:linear-gradient(90deg,rgba(34,217,127,0.1),transparent)}
+.tarif-header.t-pink  {border-left:4px solid var(--pink);  background:linear-gradient(90deg,rgba(255,62,154,0.1),transparent)}
+.tarif-icon{font-size:1.2rem;flex-shrink:0}
+.tarif-title{font-family:var(--font-display);font-size:0.78rem;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#fff}
+.tarif-table{background:var(--bg-card);border:1px solid var(--border);border-radius:0 0 var(--radius) var(--radius);overflow:hidden}
+.tarif-row{display:flex;align-items:center;justify-content:space-between;padding:12px 20px;border-bottom:1px solid rgba(255,255,255,0.04);gap:16px;transition:background 0.2s}
+.tarif-row:last-child{border-bottom:none}
+.tarif-row:hover{background:rgba(0,212,255,0.03)}
+.tarif-label{font-size:0.9rem;color:var(--text-primary);line-height:1.4;flex:1}
+.tarif-label small{display:block;font-size:0.76rem;color:var(--text-secondary);margin-top:2px}
+.tarif-price{font-family:var(--font-mono);font-size:0.95rem;font-weight:700;white-space:nowrap;flex-shrink:0;letter-spacing:1px}
+.tarif-price.t-cyan  {color:var(--cyan)}
+.tarif-price.t-orange{color:var(--orange)}
+.tarif-price.t-purple{color:var(--purple)}
+.tarif-price.t-yellow{color:#fbbf24}
+.tarif-price.t-green {color:var(--green)}
+.tarif-price.t-pink  {color:var(--pink)}
+.tarif-devis{font-size:0.75rem;font-weight:500;color:var(--text-muted);border:1px solid var(--border);padding:3px 10px;border-radius:100px;flex-shrink:0}
+.tarifs-note{margin-top:18px;padding:14px 18px;background:rgba(0,212,255,0.04);border:1px solid rgba(0,212,255,0.1);border-radius:var(--radius);font-size:0.8rem;color:var(--text-secondary);line-height:1.6}
+
+/* CONFIGS */
+.configs-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:44px}
+.cfg-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-xl);overflow:hidden;transition:all 0.35s;position:relative}
+.cfg-card:hover{transform:translateY(-6px);box-shadow:0 22px 60px rgba(0,0,0,0.35)}
+.cfg-card.featured{border-color:rgba(0,212,255,0.25);box-shadow:var(--glow-cyan)}
+.cfg-popular{position:absolute;top:14px;right:14px;background:var(--cyan);color:var(--bg-primary);padding:4px 12px;border-radius:100px;font-size:0.68rem;font-weight:700;letter-spacing:0.5px;text-transform:uppercase;z-index:2}
+.cfg-header{padding:26px 26px 18px;background:rgba(255,255,255,0.015);border-bottom:1px solid var(--border)}
+.cfg-card.featured .cfg-header{background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(139,92,246,0.06))}
+.cfg-tier{font-family:var(--font-mono);font-size:0.62rem;letter-spacing:2px;text-transform:uppercase;color:var(--cyan);margin-bottom:6px}
+.cfg-header h3{font-family:var(--font-display);font-size:1.2rem;font-weight:700;margin-bottom:4px}
+.cfg-perf{font-size:0.8rem;color:var(--text-secondary)}
+.cfg-price-row{display:flex;align-items:baseline;gap:6px;margin-top:10px}
+.cfg-price{font-family:var(--font-display);font-size:1.9rem;font-weight:700}
+.cfg-suffix{font-size:0.82rem;color:var(--text-muted)}
+.cfg-copy{background:rgba(0,212,255,0.03);border-left:3px solid rgba(0,212,255,0.15);border-radius:0 var(--radius) var(--radius) 0;padding:16px 18px;margin:18px 26px 0;font-size:0.84rem;line-height:1.65;color:var(--text-secondary);font-style:italic}
+.cfg-copy strong{color:var(--cyan);font-weight:600;font-style:normal}
+.cfg-body{padding:20px 26px}
+.cfg-specs{display:flex;flex-direction:column;gap:10px}
+.cfg-specs li{display:flex;align-items:center;gap:10px;font-size:0.86rem;color:var(--text-secondary)}
+.cfg-specs li strong{color:var(--text-primary);font-weight:600}
+.chk{width:18px;height:18px;border-radius:50%;background:rgba(34,217,127,0.08);border:1px solid rgba(34,217,127,0.18);display:flex;align-items:center;justify-content:center;flex-shrink:0;color:var(--green);font-size:0.6rem}
+.cfg-footer{padding:0 26px 26px}
+.btn-cfg{display:block;width:100%;text-align:center;padding:13px;border-radius:10px;font-family:var(--font-body);font-weight:600;font-size:0.88rem;border:none;cursor:pointer;transition:all 0.25s;text-decoration:none}
+.btn-cfg-primary{background:var(--cyan);color:var(--bg-primary)}
+.btn-cfg-primary:hover{background:#33dfff;box-shadow:var(--glow-cyan)}
+.btn-cfg-outline{background:transparent;border:1px solid rgba(255,255,255,0.1);color:var(--text-primary)}
+.btn-cfg-outline:hover{border-color:var(--cyan);color:var(--cyan)}
+
+/* PROCESS */
+.process-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;margin-top:44px}
+.p-step{text-align:center;position:relative}
+.p-step:not(:last-child)::after{content:'';position:absolute;top:30px;right:-11px;width:22px;height:1px;background:linear-gradient(90deg,var(--cyan),transparent)}
+.p-num{width:60px;height:60px;border-radius:14px;background:rgba(0,212,255,0.07);border:1px solid rgba(0,212,255,0.14);display:flex;align-items:center;justify-content:center;margin:0 auto 14px;font-family:var(--font-display);font-weight:700;font-size:1.1rem;color:var(--cyan)}
+.p-step h4{font-family:var(--font-display);font-weight:600;font-size:0.92rem;margin-bottom:4px}
+.p-step p{font-size:0.82rem;color:var(--text-secondary);line-height:1.5}
+
+/* TESTIMONIALS */
+.test-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:44px}
+.test-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:26px;transition:all 0.3s}
+.test-card:hover{border-color:var(--border-hover)}
+.test-stars{color:#fbbf24;font-size:0.82rem;letter-spacing:2px;margin-bottom:14px}
+.test-card blockquote{font-size:0.9rem;color:var(--text-secondary);line-height:1.7;font-style:italic;margin-bottom:18px}
+.test-author{display:flex;align-items:center;gap:12px;border-top:1px solid var(--border);padding-top:14px}
+.test-avatar{width:38px;height:38px;border-radius:50%;background:linear-gradient(145deg,rgba(0,212,255,0.08),rgba(139,92,246,0.08));display:flex;align-items:center;justify-content:center;font-family:var(--font-display);font-weight:700;font-size:0.82rem;color:var(--cyan);border:1px solid var(--border)}
+.test-name{font-weight:600;font-size:0.85rem}
+.test-loc{font-size:0.72rem;color:var(--text-muted)}
+
+/* ZONE */
+.zone-grid{display:grid;grid-template-columns:1fr 1fr;gap:44px;align-items:center;margin-top:44px}
+.zone-tags{display:flex;flex-wrap:wrap;gap:10px}
+.zt{padding:10px 20px;border-radius:100px;font-size:0.86rem;font-weight:500;background:var(--bg-card);border:1px solid var(--border);transition:all 0.3s}
+.zt:hover{border-color:var(--cyan);color:var(--cyan)}
+.zt-main{background:rgba(0,212,255,0.07);border-color:rgba(0,212,255,0.18);color:var(--cyan)}
+.zone-map{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius-lg);height:260px;display:flex;align-items:center;justify-content:center;text-align:center;position:relative;overflow:hidden}
+.zone-map::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at center,rgba(0,212,255,0.05) 0%,transparent 70%)}
+.zone-map .zm-pin{position:relative;z-index:1}
+.zone-map .zm-icon{font-size:2.2rem;margin-bottom:6px}
+.zone-map .zm-text{font-family:var(--font-display);font-weight:600;color:var(--cyan);font-size:0.95rem}
+.zone-map .zm-sub{color:var(--text-muted);font-size:0.78rem;margin-top:3px}
+
+/* CONTACT */
+.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:44px;margin-top:44px}
+.contact-methods{display:flex;flex-direction:column;gap:14px}
+.cm{display:flex;align-items:center;gap:14px;padding:18px;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);transition:all 0.3s}
+.cm:hover{border-color:var(--border-hover);transform:translateX(4px)}
+.cm-icon{width:42px;height:42px;border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.cm h4{font-family:var(--font-display);font-size:0.88rem;font-weight:600;margin-bottom:2px}
+.cm p{font-size:0.82rem;color:var(--text-secondary)}
+.contact-form{display:flex;flex-direction:column;gap:14px}
+.form-row{display:flex;gap:14px}
+.form-row .fg{flex:1}
+.fg{display:flex;flex-direction:column;gap:5px}
+.fg label{font-size:0.75rem;font-weight:500;color:var(--text-secondary);letter-spacing:0.5px}
+.fi-input,.fi-select,.fi-textarea{padding:11px 15px;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);color:var(--text-primary);font-family:var(--font-body);font-size:0.88rem;transition:border-color 0.2s;outline:none}
+.fi-input:focus,.fi-select:focus,.fi-textarea:focus{border-color:var(--cyan)}
+.fi-textarea{resize:vertical;min-height:100px}
+.fi-select{cursor:pointer}
+.fi-select option{background:var(--bg-card)}
+.form-msg{padding:14px;border-radius:var(--radius);text-align:center;font-size:0.9rem;font-weight:600;display:none;margin-top:8px}
+.form-msg.success{background:rgba(34,217,127,0.08);border:1px solid rgba(34,217,127,0.3);color:var(--green);display:block}
+.form-msg.error{background:rgba(255,62,154,0.08);border:1px solid rgba(255,62,154,0.3);color:var(--pink);display:block}
+
+/* FINAL CTA */
+.final-cta{position:relative;z-index:1;text-align:center;padding:100px 0;overflow:hidden}
+.final-cta::before{content:'';position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:600px;height:600px;background:radial-gradient(circle,rgba(0,212,255,0.08),transparent 70%)}
+.final-cta h2{font-family:var(--font-display);font-size:clamp(2rem,4vw,3rem);font-weight:700;margin-bottom:14px;position:relative;z-index:1}
+.final-cta p{font-size:1.05rem;color:var(--text-secondary);margin-bottom:28px;position:relative;z-index:1}
+.final-cta .cta-row{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;position:relative;z-index:1;margin-bottom:36px}
+.contact-cards{display:flex;justify-content:center;gap:20px;flex-wrap:wrap;position:relative;z-index:1}
+.cc{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:16px 24px;display:flex;align-items:center;gap:12px;font-size:0.95rem;font-weight:500;color:var(--cyan);transition:all 0.3s}
+.cc:hover{border-color:var(--border-hover);transform:translateY(-4px)}
+.cc span{font-size:1.4rem}
+
+/* FOOTER */
+.footer{position:relative;z-index:1;background:var(--bg-secondary);border-top:1px solid var(--border);padding:56px 0 22px}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:44px;margin-bottom:44px}
+.footer-desc{color:var(--text-secondary);font-size:0.86rem;line-height:1.7;margin-top:14px;max-width:280px}
+.footer h5{font-family:var(--font-display);font-weight:600;font-size:0.88rem;margin-bottom:14px}
+.footer-links{display:flex;flex-direction:column;gap:9px}
+.footer-links a{font-size:0.82rem;color:var(--text-secondary);transition:color 0.2s}
+.footer-links a:hover{color:var(--cyan)}
+.footer-bottom{border-top:1px solid var(--border);padding-top:22px;display:flex;justify-content:space-between;align-items:center;font-size:0.75rem;color:var(--text-muted)}
+
+/* REVEAL / ANIMATIONS */
+.reveal{opacity:0;transform:translateY(30px);transition:all 0.7s cubic-bezier(0.4,0,0.2,1)}
+.reveal.active{opacity:1;transform:translateY(0)}
+.stagger-in>*{opacity:0;transform:translateY(24px);transition:opacity 0.5s cubic-bezier(0.4,0,0.2,1),transform 0.5s cubic-bezier(0.4,0,0.2,1)}
+.stagger-in.in-view>*{opacity:1;transform:translateY(0)}
+.stagger-in.in-view>*:nth-child(1){transition-delay:0.05s}.stagger-in.in-view>*:nth-child(2){transition-delay:0.12s}.stagger-in.in-view>*:nth-child(3){transition-delay:0.19s}.stagger-in.in-view>*:nth-child(4){transition-delay:0.26s}.stagger-in.in-view>*:nth-child(5){transition-delay:0.33s}.stagger-in.in-view>*:nth-child(6){transition-delay:0.4s}
+.gradient-text{background-size:200% auto;animation:shimmer 4s linear infinite}
+@keyframes shimmer{0%{background-position:0% center}100%{background-position:200% center}}
+.hero-tag::after{content:'▋';font-size:0.7rem;color:var(--cyan);animation:blink-cursor 1s step-end infinite;margin-left:4px}
+@keyframes blink-cursor{0%,100%{opacity:1}50%{opacity:0}}
+.float-top{animation:float-up 5s ease-in-out infinite}
+.float-bot{animation:float-up 5s ease-in-out infinite 2.5s}
+@keyframes float-up{0%,100%{transform:translateY(0) rotate(0deg)}25%{transform:translateY(-8px) rotate(1deg)}75%{transform:translateY(4px) rotate(-0.5deg)}}
+.tilt-card{transition:transform 0.4s cubic-bezier(0.4,0,0.2,1),box-shadow 0.4s;transform-style:preserve-3d;will-change:transform}
+.cfg-card.featured{animation:glow-border 3s ease-in-out infinite}
+@keyframes glow-border{0%,100%{box-shadow:0 0 20px rgba(0,212,255,0.1)}50%{box-shadow:0 0 35px rgba(0,212,255,0.25),0 0 60px rgba(0,212,255,0.08)}}
+.p-num{animation:step-glow 2.5s ease-in-out infinite;animation-delay:calc(var(--i,0)*0.4s)}
+@keyframes step-glow{0%,100%{box-shadow:0 0 0 0 rgba(0,212,255,0)}50%{box-shadow:0 0 0 8px rgba(0,212,255,0.08)}}
+.section-label::before{width:0;transition:width 0.6s cubic-bezier(0.4,0,0.2,1) 0.2s}
+.reveal.active .section-label::before,.in-view .section-label::before{width:24px}
+.zone-tags.in-view .zt{animation:wave-in 0.5s cubic-bezier(0.4,0,0.2,1) both}
+.zone-tags.in-view .zt:nth-child(1){animation-delay:0.05s}.zone-tags.in-view .zt:nth-child(2){animation-delay:0.1s}.zone-tags.in-view .zt:nth-child(3){animation-delay:0.15s}.zone-tags.in-view .zt:nth-child(4){animation-delay:0.2s}.zone-tags.in-view .zt:nth-child(5){animation-delay:0.25s}.zone-tags.in-view .zt:nth-child(6){animation-delay:0.3s}.zone-tags.in-view .zt:nth-child(7){animation-delay:0.35s}.zone-tags.in-view .zt:nth-child(8){animation-delay:0.4s}
+@keyframes wave-in{from{opacity:0;transform:translateY(16px) scale(0.9)}to{opacity:1;transform:translateY(0) scale(1)}}
+.btn{position:relative;overflow:hidden}
+.btn::after{content:'';position:absolute;width:0;height:0;background:rgba(255,255,255,0.15);border-radius:50%;transform:translate(-50%,-50%);transition:width 0.5s,height 0.5s,opacity 0.5s;opacity:0;pointer-events:none}
+.btn:hover::after{width:300px;height:300px;opacity:1}
+.test-card{transition:all 0.4s cubic-bezier(0.4,0,0.2,1)}
+.test-card:hover{transform:translateY(-6px);box-shadow:0 16px 40px rgba(0,0,0,0.2)}
+.nav.scrolled .nav-logo{box-shadow:0 0 16px rgba(0,212,255,0.25);transition:box-shadow 0.4s}
+.about-photo{animation:photo-glow 4s ease-in-out infinite}
+@keyframes photo-glow{0%,100%{box-shadow:0 0 30px rgba(0,212,255,0.1)}50%{box-shadow:0 0 50px rgba(0,212,255,0.2),0 0 80px rgba(0,212,255,0.06)}}
+.xp-badge{animation:xp-bounce 3s ease-in-out infinite}
+@keyframes xp-bounce{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.contact-methods.in-view .cm{animation:slide-right 0.4s cubic-bezier(0.4,0,0.2,1) both}
+.contact-methods.in-view .cm:nth-child(1){animation-delay:0.05s}.contact-methods.in-view .cm:nth-child(2){animation-delay:0.12s}.contact-methods.in-view .cm:nth-child(3){animation-delay:0.19s}.contact-methods.in-view .cm:nth-child(4){animation-delay:0.26s}
+@keyframes slide-right{from{opacity:0;transform:translateX(-20px)}to{opacity:1;transform:translateX(0)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:0.01ms!important;animation-iteration-count:1!important;transition-duration:0.01ms!important}}
+
+/* RESPONSIVE */
+@media(max-width:1024px){
+  .hero-content{grid-template-columns:1fr;text-align:center}
+  .hero-desc{margin-left:auto;margin-right:auto}
+  .hero-actions{justify-content:center}
+  .hero-stats{justify-content:center}
+  .hero-visual{display:none}
+  .configs-grid{grid-template-columns:1fr;max-width:480px;margin-left:auto;margin-right:auto}
+  .process-grid{grid-template-columns:repeat(2,1fr)}
+  .p-step:not(:last-child)::after{display:none}
+  .about-grid{grid-template-columns:1fr;text-align:center}
+  .about-photo-wrap{justify-content:center}
+  .hl-card{text-align:left}
+  .footer-grid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:768px){
+  .section{padding:60px 0}
+  .nav-links{display:none}
+  .nav-toggle{display:block}
+  .test-grid{grid-template-columns:1fr}
+  .zone-grid{grid-template-columns:1fr}
+  .contact-grid{grid-template-columns:1fr}
+  .footer-grid{grid-template-columns:1fr}
+  .footer-bottom{flex-direction:column;gap:6px;text-align:center}
+  .hero-actions{flex-direction:column;align-items:center}
+  .hero-stats{flex-wrap:wrap;justify-content:center}
+  .form-row{flex-direction:column}
+  .process-grid{grid-template-columns:1fr 1fr}
+  .tarif-row{flex-wrap:wrap;gap:6px}
+}
+</style>
+</head>
+<body>
+
+<div class="grid-bg"></div>
+
+<!-- NAV -->
+<nav class="nav" id="navbar">
+  <div class="nav-inner">
+    <a href="#accueil" class="nav-brand">
+      <img src="https://www.depannagepcgard.fr/wp-content/uploads/2026/01/Logo-250x250-1.png" alt="Dépannage PC Gard" class="nav-logo">
+      <div class="nav-name">Dépannage <span>PC Gard</span></div>
+    </a>
+    <ul class="nav-links">
+      <li><a href="#a-propos">À propos</a></li>
+      <li><a href="#tarifs">Tarifs</a></li>
+      <li><a href="#montage-pc">Configs Gaming</a></li>
+      <li><a href="/configurateur-pc">Configurateur</a></li>
+      <li><a href="#avis">Avis</a></li>
+      <li><a href="#contact" class="nav-cta">Devis Gratuit</a></li>
+    </ul>
+    <button class="nav-toggle" id="burgerBtn" aria-label="Menu">
+      <span class="burger-line"></span>
+      <span class="burger-line"></span>
+      <span class="burger-line"></span>
+    </button>
+  </div>
+</nav>
+
+<!-- Mobile -->
+<div class="mobile-overlay" id="mobileMenu">
+  <ul class="mobile-nav">
+    <li><a href="#accueil" class="mob-link">Accueil</a></li>
+    <li><a href="#a-propos" class="mob-link">À propos</a></li>
+    <li><a href="#tarifs" class="mob-link">Tarifs</a></li>
+    <li><a href="/configurateur-pc" class="mob-link">Configurateur PC</a></li>
+    <li><a href="/montage-pc" class="mob-link">Montages réalisés</a></li>
+    <li><a href="/faq" class="mob-link">FAQ</a></li>
+    <li><a href="#avis" class="mob-link">Avis</a></li>
+    <li><a href="#contact" class="mob-link">Contact</a></li>
+  </ul>
+</div>
+
+<!-- HERO -->
+<section class="hero" id="accueil">
+  <div class="hero-orb hero-orb-1"></div>
+  <div class="hero-orb hero-orb-2"></div>
+  <div class="hero-orb hero-orb-3"></div>
+  <div class="container">
+    <div class="hero-content">
+      <div>
+        <div class="hero-tag"><span class="dot"></span> Disponible — Intervention sous 24h</div>
+        <h1>Expert <span class="gradient-text">Dépannage</span> & Montage <span class="gradient-text">PC Gaming</span> à Nîmes | Gard (30)</h1>
+        <p class="hero-desc">Intervention rapide <span class="hl">24-48h dans un rayon de 30km</span> : Alès, Uzès, Beaucaire, Marguerittes, Sommières. <span class="hl">15 ans d'expertise</span> à votre service.</p>
+        <div class="hero-actions">
+          <a href="tel:+33637127688" class="btn btn-primary">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            06 37 12 76 88
+          </a>
+          <a href="/formulaire-rdv/" class="btn btn-accent">Formulaire détaillé →</a>
+          <a href="https://cal.com/depannage-pc-gard/30min" class="btn btn-orange" target="_blank">RDV rapide</a>
+          <a href="#montage-pc" class="btn btn-secondary">Voir les configs</a>
+        </div>
+        <div class="hero-stats">
+          <div class="stat"><span class="stat-val">5/5</span><span class="stat-lbl">Note Google</span></div>
+          <div class="stat"><span class="stat-val">15+</span><span class="stat-lbl">Ans d'XP</span></div>
+          <div class="stat"><span class="stat-val">24H</span><span class="stat-lbl">Intervention</span></div>
+          <div class="stat"><span class="stat-val">30KM</span><span class="stat-lbl">Rayon</span></div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="float-badge float-top"><div class="fi fi-cyan">⚡</div><span>Intervention 24h</span></div>
+        <div class="float-badge float-bot"><div class="fi fi-green">✓</div><span>Diagnostic gratuit</span></div>
+        <div class="hero-card">
+          <div class="hc-header"><span class="hc-dot hc-dot-r"></span><span class="hc-dot hc-dot-y"></span><span class="hc-dot hc-dot-g"></span><span style="margin-left:8px">config_gaming_pro.sys</span></div>
+          <div class="spec-grid">
+            <div class="spec-item"><div class="spec-lbl">Processeur</div><div class="spec-val">Ryzen 7 7800X3D</div></div>
+            <div class="spec-item"><div class="spec-lbl">Carte graphique</div><div class="spec-val">RTX 5070</div></div>
+            <div class="spec-item"><div class="spec-lbl">Mémoire</div><div class="spec-val">32 Go DDR5</div></div>
+            <div class="spec-item"><div class="spec-lbl">Stockage</div><div class="spec-val">1 To NVMe</div></div>
+          </div>
+          <div class="hc-footer">
+            <div class="hc-price">2 200€ <span>TTC</span></div>
+            <div class="hc-badge">Best seller</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="section reveal" id="a-propos">
+  <div class="container">
+    <div class="section-label">Votre expert</div>
+    <div class="about-grid">
+      <div class="about-photo-wrap">
+        <img src="/wp-content/uploads/2026/01/profile-photo.png" alt="Paul - Expert Informatique Nîmes" class="about-photo">
+        <div class="xp-badge"><span class="xp-num">15</span><span class="xp-txt">ANS<br>d'XP</span></div>
+      </div>
+      <div>
+        <h2 class="section-title">Votre Expert Informatique dans le Gard depuis 15 ans</h2>
+        <h3 style="font-family:var(--font-display);font-size:1.1rem;font-weight:600;color:var(--cyan);margin-bottom:18px;">Spécialiste Montage PC Gaming & Dépannage à Domicile</h3>
+        <p class="about-intro">Passionné depuis 15 ans, je transforme votre expérience tech avec expertise et réactivité. Du montage PC Gaming haute performance au dépannage express, je vous accompagne dans tout le Gard.</p>
+        <div class="hl-grid stagger-in">
+          <div class="hl-card">
+            <div class="hl-icon ic-cyan" style="font-size:1.2rem">🎯</div>
+            <div><h4>Expertise Gaming</h4><p>15 années d'expérience en montage PC gaming haute performance, dépannage et optimisation système avancée.</p></div>
+          </div>
+          <div class="hl-card">
+            <div class="hl-icon ic-purple" style="font-size:1.2rem">💡</div>
+            <div><h4>Conseil Pro</h4><p>Je comprends vos besoins et vous propose la config parfaite adaptée à votre budget et vos jeux préférés.</p></div>
+          </div>
+          <div class="hl-card">
+            <div class="hl-icon ic-orange" style="font-size:1.2rem">⚡</div>
+            <div><h4>Réactivité Maximale</h4><p>Disponible sous 24h partout dans le Gard. Dépannage express à domicile ou à distance selon vos besoins.</p></div>
+          </div>
+        </div>
+        <div style="display:flex;gap:12px;flex-wrap:wrap">
+          <a href="tel:+33637127688" class="btn btn-primary">Parlons de votre projet</a>
+          <a href="#tarifs" class="btn btn-secondary">Voir les tarifs</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ TARIFS (remplace Services) ═══════════ -->
+<section class="section section-alt reveal" id="tarifs">
+  <div class="container">
+    <div class="section-label">Tarifs 2026</div>
+    <h2 class="section-title">Tarifs Transparents — Sans Mauvaise Surprise</h2>
+    <p class="section-subtitle">TVA non applicable (art. 293B CGI) · Déplacement inclus dans un rayon de 30 km autour de Nîmes.</p>
+
+    <div class="stagger-in" style="margin-top:36px">
+
+      <!-- DIAGNOSTIC -->
+      <div class="tarif-block">
+        <div class="tarif-header t-cyan"><span class="tarif-icon">🔍</span><span class="tarif-title">Diagnostic</span></div>
+        <div class="tarif-table">
+          <div class="tarif-row"><div class="tarif-label">Diagnostic matériel & logiciel</div><div class="tarif-price t-cyan">26€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Diagnostic à domicile<small>Déplacement inclus dans la zone 30 km</small></div><div class="tarif-price t-cyan">35€</div></div>
+        </div>
+      </div>
+
+      <!-- RÉPARATION -->
+      <div class="tarif-block">
+        <div class="tarif-header t-orange"><span class="tarif-icon">🔧</span><span class="tarif-title">Réparation</span></div>
+        <div class="tarif-table">
+          <div class="tarif-row"><div class="tarif-label">Main d'œuvre — 30 min</div><div class="tarif-price t-orange">35€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Main d'œuvre — 1 h</div><div class="tarif-price t-orange">62€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Suppression de virus / malwares</div><div class="tarif-price t-orange">44€</div></div>
+        </div>
+      </div>
+
+      <!-- MONTAGE -->
+      <div class="tarif-block">
+        <div class="tarif-header t-purple"><span class="tarif-icon">🖥️</span><span class="tarif-title">Montage & Installation</span></div>
+        <div class="tarif-table">
+          <div class="tarif-row"><div class="tarif-label">Montage PC (sans système d'exploitation)</div><div class="tarif-price t-purple">71€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Montage PC + installation Windows<small>Licence Windows non incluse</small></div><div class="tarif-price t-purple">89€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Montage avancé — watercooling, boîtier spécifique</div><div class="tarif-devis">Sur devis</div></div>
+          <div class="tarif-row"><div class="tarif-label">Installation système d'exploitation<small>Windows, Linux…</small></div><div class="tarif-price t-purple">40€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Installation logiciel / antivirus<small>Par logiciel</small></div><div class="tarif-price t-purple">17€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Mise en service + transfert de données</div><div class="tarif-price t-purple">71€</div></div>
+        </div>
+      </div>
+
+      <!-- RÉCUPÉRATION -->
+      <div class="tarif-block">
+        <div class="tarif-header t-yellow"><span class="tarif-icon">💾</span><span class="tarif-title">Transfert & Récupération de données</span></div>
+        <div class="tarif-table">
+          <div class="tarif-row"><div class="tarif-label">Analyse & diagnostic disque</div><div class="tarif-price t-yellow">22€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Récupération — panne logicielle</div><div class="tarif-price t-yellow">53€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Récupération — panne physique légère</div><div class="tarif-price t-yellow">89€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Récupération — panne physique grave / firmware</div><div class="tarif-price t-yellow">179€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Clonage disque dur vers SSD</div><div class="tarif-price t-yellow">53€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Transfert de données</div><div class="tarif-price t-yellow">35€</div></div>
+        </div>
+      </div>
+
+      <!-- ENTRETIEN -->
+      <div class="tarif-block">
+        <div class="tarif-header t-green"><span class="tarif-icon">🧹</span><span class="tarif-title">Entretien & Optimisation</span></div>
+        <div class="tarif-table">
+          <div class="tarif-row"><div class="tarif-label">Dépoussiérage PC fixe</div><div class="tarif-price t-green">17€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Nettoyage système & optimisation Windows</div><div class="tarif-price t-green">35€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Entretien complet<small>Dépoussiérage + nettoyage système + optimisation</small></div><div class="tarif-price t-green">53€</div></div>
+        </div>
+      </div>
+
+      <!-- SITE WEB -->
+      <div class="tarif-block">
+        <div class="tarif-header t-pink"><span class="tarif-icon">🌐</span><span class="tarif-title">Création de site web</span></div>
+        <div class="tarif-table">
+          <div class="tarif-row"><div class="tarif-label">Site vitrine — 1 à 3 pages<small>Design moderne, responsive, optimisé SEO</small></div><div class="tarif-price t-pink">590€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Site vitrine complet — jusqu'à 6 pages<small>Formulaire de contact, Google Maps, mentions légales</small></div><div class="tarif-price t-pink">900€</div></div>
+          <div class="tarif-row"><div class="tarif-label">Refonte de site existant</div><div class="tarif-devis">Sur devis</div></div>
+          <div class="tarif-row"><div class="tarif-label">Référencement local SEO<small>Google My Business, mots-clés locaux Nîmes / Gard</small></div><div class="tarif-devis">Sur devis</div></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="tarifs-note">ℹ️ Tarifs indiqués en euros — TVA non applicable, art. 293B du CGI. Déplacement inclus dans un rayon de 30 km autour de Nîmes. Au-delà : supplément kilométrique. Pièces détachées non incluses sauf mention contraire.</div>
+  </div>
+</section>
+
+<!-- CONFIGS GAMING -->
+<section class="section reveal" id="montage-pc">
+  <div class="container">
+    <div class="section-label">Montage PC Gaming</div>
+    <h2 class="section-title">Montage PC Gaming Sur Mesure à Nîmes — De 1000€ à 3500€+</h2>
+    <p class="section-subtitle">Configurations ultra-performantes assemblées avec soin dans le Gard.</p>
+    <div class="configs-grid stagger-in">
+      <div class="cfg-card tilt-card">
+        <div class="cfg-header">
+          <div class="cfg-tier">Entry</div>
+          <h3>PC Gaming Entry — Idéal pour Débuter (1000€ TTC)</h3>
+          <div class="cfg-perf">1080p High — 60+ FPS</div>
+          <div class="cfg-price-row"><span class="cfg-price">1 000€</span><span class="cfg-suffix">TTC</span></div>
+        </div>
+        <div class="cfg-copy"><strong>Les PC "tout faits" des grandes surfaces rament dès qu'on lance un jeu ?</strong> Avec ma config Gaming Entry, vous obtenez un <strong>vrai PC de gamer monté par un expert</strong> : RX 7600 ou RTX 5060, 16 Go RAM, SSD rapide.</div>
+        <div class="cfg-body">
+          <ul class="cfg-specs">
+            <li><span class="chk">✓</span><strong>CPU:</strong> Ryzen 5 5600 / Intel i5-12400F</li>
+            <li><span class="chk">✓</span><strong>GPU:</strong> RTX 5060 / RX 7600</li>
+            <li><span class="chk">✓</span><strong>RAM:</strong> 16 Go DDR4</li>
+            <li><span class="chk">✓</span><strong>SSD:</strong> 1 To NVMe</li>
+            <li><span class="chk">✓</span>Windows installé + drivers</li>
+          </ul>
+        </div>
+        <div class="cfg-footer"><a href="/formulaire-rdv/" class="btn-cfg btn-cfg-outline">Demander un devis</a></div>
+      </div>
+      <div class="cfg-card featured">
+        <div class="cfg-popular">Populaire</div>
+        <div class="cfg-header">
+          <div class="cfg-tier">Pro</div>
+          <h3>PC Gaming Pro — Meilleur Rapport Perf/Prix (2200€ TTC)</h3>
+          <div class="cfg-perf">1440p Ultra — 120+ FPS</div>
+          <div class="cfg-price-row"><span class="cfg-price">2 200€</span><span class="cfg-suffix">TTC</span></div>
+        </div>
+        <div class="cfg-copy"><strong>Marre des 60 FPS qui plafonnent sur les jeux AAA ?</strong> Ma Gaming Pro, c'est <strong>LE sweet spot des gamers exigeants</strong> : RTX 5070 / RX 9070 XT, 32 Go DDR5. <strong>Montée, testée et livrée chez vous à Nîmes avec ma garantie locale.</strong></div>
+        <div class="cfg-body">
+          <ul class="cfg-specs">
+            <li><span class="chk">✓</span><strong>CPU:</strong> Ryzen 7 7800X3D / Intel i7</li>
+            <li><span class="chk">✓</span><strong>GPU:</strong> RTX 5070 / RX 9070 XT</li>
+            <li><span class="chk">✓</span><strong>RAM:</strong> 32 Go DDR5</li>
+            <li><span class="chk">✓</span><strong>SSD:</strong> 1 To NVMe Gen4</li>
+            <li><span class="chk">✓</span>RGB + Refroidissement Pro</li>
+            <li><span class="chk">✓</span>Livraison & installation</li>
+          </ul>
+        </div>
+        <div class="cfg-footer"><a href="/formulaire-rdv/" class="btn-cfg btn-cfg-primary">Choisir cette config ⚡</a></div>
+      </div>
+      <div class="cfg-card tilt-card">
+        <div class="cfg-header">
+          <div class="cfg-tier">Elite</div>
+          <h3>PC Gaming Elite — Performance Absolue 4K (3500€+ TTC)</h3>
+          <div class="cfg-perf">4K Ultra — 144+ FPS</div>
+          <div class="cfg-price-row"><span class="cfg-price">3 500€+</span><span class="cfg-suffix">TTC</span></div>
+        </div>
+        <div class="cfg-copy"><strong>Vous streamez, créez, jouez en 4K Ultra ?</strong> Ma Gaming Elite, c'est <strong>la Formule 1 du gaming</strong> : RTX 5080/5090, 64 Go DDR5, watercooling premium.</div>
+        <div class="cfg-body">
+          <ul class="cfg-specs">
+            <li><span class="chk">✓</span><strong>CPU:</strong> Ryzen 9 9900X / Intel i9</li>
+            <li><span class="chk">✓</span><strong>GPU:</strong> RTX 5080 / RTX 5090</li>
+            <li><span class="chk">✓</span><strong>RAM:</strong> 32-64 Go DDR5</li>
+            <li><span class="chk">✓</span><strong>SSD:</strong> 2 To NVMe Gen4</li>
+            <li><span class="chk">✓</span>Watercooling premium</li>
+            <li><span class="chk">✓</span>Boîtier haut de gamme</li>
+          </ul>
+        </div>
+        <div class="cfg-footer"><a href="/formulaire-rdv/" class="btn-cfg btn-cfg-outline">Projet sur mesure</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section class="section section-alt reveal">
+  <div class="container">
+    <div class="section-label">Comment ça marche</div>
+    <h2 class="section-title">Le Processus de Montage de Votre PC Gaming dans le Gard</h2>
+    <div class="process-grid stagger-in">
+      <div class="p-step" style="--i:0"><div class="p-num">01</div><h4>Consultation</h4><p>On discute de vos jeux, votre budget et vos attentes</p></div>
+      <div class="p-step" style="--i:1"><div class="p-num">02</div><h4>Configuration</h4><p>Je propose la config optimale pour votre utilisation</p></div>
+      <div class="p-step" style="--i:2"><div class="p-num">03</div><h4>Montage Pro</h4><p>Achat des pièces et assemblage soigné dans mon atelier</p></div>
+      <div class="p-step" style="--i:3"><div class="p-num">04</div><h4>Livraison</h4><p>Windows, drivers, jeux installés — prêt à jouer !</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="section reveal" id="avis">
+  <div class="container">
+    <div class="section-label">Témoignages</div>
+    <h2 class="section-title">+29 Avis Google 5/5 à Nîmes et dans le Gard</h2>
+    <p class="section-subtitle">Noté 5/5 sur Google par mes clients — 29 avis</p>
+    <div class="test-grid stagger-in">
+      <div class="test-card">
+        <div class="test-stars">★★★★★</div>
+        <blockquote>« Dépannage rapide et efficace ! Paul est passionné et une belle personne ! Je recommande chaudement »</blockquote>
+        <div class="test-author"><div class="test-avatar">SM</div><div><div class="test-name">Sébastien M.</div><div class="test-loc">Nîmes — via Google</div></div></div>
+      </div>
+      <div class="test-card">
+        <div class="test-stars">★★★★★</div>
+        <blockquote>« Très bon dépannage de mon PC ! Rapide, efficace et très professionnel. Je recommande sans hésiter. »</blockquote>
+        <div class="test-author"><div class="test-avatar">OR</div><div><div class="test-name">Océane R.</div><div class="test-loc">Gard — via Google</div></div></div>
+      </div>
+      <div class="test-card">
+        <div class="test-stars">★★★★★</div>
+        <blockquote>« Un service au top, Paul a de suite trouvé d'où venait mon problème de PC. Je recommande !! »</blockquote>
+        <div class="test-author"><div class="test-avatar">AU</div><div><div class="test-name">Antoine U.</div><div class="test-loc">Nîmes — via Google</div></div></div>
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:28px">
+      <a href="https://www.google.com/maps/place/D%C3%A9pannage+PC+Gard/@43.8695919,3.8998822,101585m/data=!3m1!1e3!4m6!3m5!1s0xadbc58940a01f5c3:0xe804fa258c34bc77!8m2!3d43.9599533!4d4.0540078!16s%2Fg%2F11ywp01bqz" class="btn btn-secondary" target="_blank" rel="noopener">Voir tous les avis Google →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ZONE -->
+<section class="section section-alt reveal">
+  <div class="container">
+    <div class="section-label">Zone d'intervention</div>
+    <h2 class="section-title">Zone d'Intervention 30km autour de Nîmes</h2>
+    <h3 style="font-family:var(--font-display);font-size:1rem;font-weight:500;color:var(--text-secondary);margin-bottom:4px">Dépannage PC et Montage Gaming à Alès, Uzès, Beaucaire, Sommières</h3>
+    <div class="zone-grid">
+      <div class="zone-tags stagger-in">
+        <span class="zt zt-main">Nîmes</span>
+        <span class="zt">Alès</span>
+        <span class="zt">Uzès</span>
+        <span class="zt">Beaucaire</span>
+        <span class="zt">Sommières</span>
+        <span class="zt">Vauvert</span>
+        <span class="zt">Manduel</span>
+        <span class="zt">Marguerittes</span>
+      </div>
+      <div class="zone-map">
+        <div class="zm-pin"><div class="zm-icon">📍</div><div class="zm-text">Nîmes — Gard (30)</div><div class="zm-sub">Rayon de 30km</div></div>
+      </div>
+    </div>
+    <p style="text-align:center;margin-top:24px;color:var(--text-secondary);font-size:0.92rem">Votre ville n'est pas listée ? <a href="#formulaire-contact" style="color:var(--cyan);font-weight:600">Contactez-moi</a>, j'interviens peut-être chez vous !</p>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section class="section reveal" id="formulaire-contact">
+  <div class="container">
+    <div class="section-label">Contact</div>
+    <h2 class="section-title">Devis Gratuit sous 24-48h — Intervention Rapide dans le Gard</h2>
+    <p class="section-subtitle">Décrivez votre besoin et je vous réponds rapidement.</p>
+    <div class="contact-grid">
+      <div class="contact-methods stagger-in">
+        <a href="tel:+33637127688" class="cm">
+          <div class="cm-icon ic-cyan"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#00d4ff" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg></div>
+          <div><h4>Téléphone</h4><p>06 37 12 76 88</p></div>
+        </a>
+        <a href="mailto:contact@depannagepcgard.fr" class="cm">
+          <div class="cm-icon ic-purple"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#8b5cf6" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></div>
+          <div><h4>Email</h4><p>contact@depannagepcgard.fr</p></div>
+        </a>
+        <a href="https://cal.com/depannage-pc-gard/30min" class="cm" target="_blank" rel="noopener">
+          <div class="cm-icon ic-green"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22d97f" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
+          <div><h4>RDV en ligne</h4><p>Réservez un créneau rapide</p></div>
+        </a>
+        <div class="cm">
+          <div class="cm-icon ic-orange"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#ff6b35" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></div>
+          <div><h4>Horaires</h4><p>Lun-Ven : 8h-19h</p></div>
+        </div>
+      </div>
+      <form class="contact-form" id="contactForm">
+        <input type="hidden" name="access_key" value="d97283c2-61d3-457a-b73d-130ac558fc67">
+        <input type="hidden" name="subject" value="Nouvelle demande depuis Dépannage PC Gard">
+        <input type="hidden" name="from_name" value="Dépannage PC Gard">
+        <div class="form-row">
+          <div class="fg"><label>Prénom *</label><input type="text" name="prenom" class="fi-input" placeholder="Votre prénom" required></div>
+          <div class="fg"><label>Nom *</label><input type="text" name="nom" class="fi-input" placeholder="Votre nom" required></div>
+        </div>
+        <div class="form-row">
+          <div class="fg"><label>Email *</label><input type="email" name="email" class="fi-input" placeholder="votre@email.com" required></div>
+          <div class="fg"><label>Téléphone *</label><input type="tel" name="telephone" class="fi-input" placeholder="06 12 34 56 78" required></div>
+        </div>
+        <div class="fg">
+          <label>Type de demande *</label>
+          <select name="type_demande" class="fi-select" required>
+            <option value="">— Sélectionnez —</option>
+            <option value="Montage PC Gaming">Montage PC Gaming</option>
+            <option value="Dépannage PC">Dépannage PC</option>
+            <option value="Virus / Sécurité">Virus / Sécurité</option>
+            <option value="Récupération données">Récupération données</option>
+            <option value="Upgrade PC">Upgrade PC</option>
+            <option value="Migration Setup Gaming">Migration Setup Gaming</option>
+            <option value="Formation">Conseil / Formation</option>
+            <option value="Création site web">Création site web</option>
+            <option value="Autre">Autre demande</option>
+          </select>
+        </div>
+        <div class="fg"><label>Message *</label><textarea name="message" class="fi-textarea" placeholder="Décrivez votre besoin..." required></textarea></div>
+        <button type="submit" class="btn btn-primary" style="align-self:flex-start">Envoyer ma demande →</button>
+        <div id="formMessage" class="form-msg"></div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="final-cta" id="contact">
+  <div class="container">
+    <h2><span class="gradient-text">Besoin d'un Expert Gaming & Tech ?</span></h2>
+    <p>Devis gratuit 24-48h · Intervention rapide · Satisfaction garantie</p>
+    <div class="cta-row">
+      <a href="tel:+33637127688" class="btn btn-primary">06 37 12 76 88</a>
+      <a href="/formulaire-rdv/" class="btn btn-accent">Formulaire détaillé →</a>
+      <a href="https://cal.com/depannage-pc-gard/30min" class="btn btn-orange" target="_blank">RDV rapide</a>
+      <a href="mailto:contact@depannagepcgard.fr" class="btn btn-secondary">Envoyer un email</a>
+    </div>
+    <div class="contact-cards">
+      <div class="cc"><span>📞</span>06 37 12 76 88</div>
+      <div class="cc"><span>✉️</span>contact@depannagepcgard.fr</div>
+      <div class="cc"><span>⏰</span>Lun-Ven 8h-19h</div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a href="#" class="nav-brand"><img src="https://www.depannagepcgard.fr/wp-content/uploads/2026/01/Logo-250x250-1.png" alt="Dépannage PC Gard" class="nav-logo"><div class="nav-name">Dépannage <span>PC Gard</span></div></a>
+        <p class="footer-desc">Expert informatique depuis 15 ans. Montage PC gaming, dépannage et création de sites web dans le Gard.</p>
+      </div>
+      <div>
+        <h5>Tarifs</h5>
+        <ul class="footer-links">
+          <li><a href="#tarifs">Diagnostic</a></li>
+          <li><a href="#tarifs">Réparation</a></li>
+          <li><a href="#tarifs">Montage PC</a></li>
+          <li><a href="#tarifs">Récupération données</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Contact</h5>
+        <ul class="footer-links">
+          <li><a href="tel:+33637127688">06 37 12 76 88</a></li>
+          <li><a href="mailto:contact@depannagepcgard.fr">contact@depannagepcgard.fr</a></li>
+          <li><a href="/formulaire-rdv/">Formulaire détaillé</a></li>
+          <li><a href="https://cal.com/depannage-pc-gard/30min">RDV en ligne</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Légal</h5>
+        <ul class="footer-links">
+          <li><a href="/politique-de-confidentialite/">Confidentialité</a></li>
+          <li><a href="/conditions-generales-de-vente/">CGV</a></li>
+          <li><a href="/politique-de-remboursement/">Remboursement</a></li>
+          <li><a href="/declaration-daccessibilite/">Accessibilité</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Dépannage PC Gard — Tous droits réservés</span>
+      <span>SIRET 932 695 570 00014</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+const burgerBtn=document.getElementById('burgerBtn'),mobileMenu=document.getElementById('mobileMenu'),mobLinks=document.querySelectorAll('.mob-link');
+burgerBtn.addEventListener('click',()=>{burgerBtn.classList.toggle('active');mobileMenu.classList.toggle('active');document.body.style.overflow=mobileMenu.classList.contains('active')?'hidden':''});
+mobLinks.forEach(l=>l.addEventListener('click',()=>{burgerBtn.classList.remove('active');mobileMenu.classList.remove('active');document.body.style.overflow=''}));
+const reveals=document.querySelectorAll('.reveal');
+const revealCheck=()=>{reveals.forEach(el=>{if(el.getBoundingClientRect().top<window.innerHeight-80)el.classList.add('active')})};
+window.addEventListener('scroll',revealCheck);revealCheck();
+const staggerEls=document.querySelectorAll('.stagger-in');
+const staggerObs=new IntersectionObserver((entries)=>{entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in-view');staggerObs.unobserve(e.target)}});},{threshold:0.1,rootMargin:'0px 0px -40px 0px'});
+staggerEls.forEach(el=>staggerObs.observe(el));
+const navbar=document.getElementById('navbar');
+window.addEventListener('scroll',()=>{navbar.classList.toggle('scrolled',window.pageYOffset>80)});
+document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener('click',function(e){e.preventDefault();const t=document.querySelector(this.getAttribute('href'));if(t)t.scrollIntoView({behavior:'smooth',block:'start'})})});
+document.querySelectorAll('.tilt-card').forEach(card=>{
+  card.addEventListener('mousemove',(e)=>{const r=card.getBoundingClientRect();const x=(e.clientX-r.left)/r.width-0.5;const y=(e.clientY-r.top)/r.height-0.5;card.style.transform=`translateY(-6px) perspective(800px) rotateX(${y*-6}deg) rotateY(${x*6}deg)`;});
+  card.addEventListener('mouseleave',()=>{card.style.transform='translateY(0) perspective(800px) rotateX(0) rotateY(0)';});
+});
+const heroSection=document.querySelector('.hero');
+const orbs=document.querySelectorAll('.hero-orb');
+if(heroSection&&orbs.length){heroSection.addEventListener('mousemove',(e)=>{const cx=window.innerWidth/2,cy=window.innerHeight/2;const dx=(e.clientX-cx)/cx,dy=(e.clientY-cy)/cy;orbs.forEach((orb,i)=>{const speed=(i+1)*12;orb.style.transform=`translate(${dx*speed}px, ${dy*speed}px)`;});});}
+const counterEls=document.querySelectorAll('.stat-val,.counter-num');
+const animateCounter=(el)=>{const text=el.textContent.trim();const match=text.match(/([\d.]+)/);if(!match)return;const target=parseFloat(match[1]);const suffix=text.replace(match[1],'');const isDecimal=text.includes('.');const duration=1200;const start=performance.now();const step=(now)=>{const progress=Math.min((now-start)/duration,1);const eased=1-Math.pow(1-progress,3);const current=target*eased;el.textContent=(isDecimal?current.toFixed(1):Math.floor(current))+suffix;if(progress<1)requestAnimationFrame(step);};requestAnimationFrame(step);};
+const counterObs=new IntersectionObserver((entries)=>{entries.forEach(e=>{if(e.isIntersecting){animateCounter(e.target);counterObs.unobserve(e.target)}});},{threshold:0.5});
+counterEls.forEach(el=>counterObs.observe(el));
+document.querySelectorAll('.btn-primary,.btn-cfg-primary,.nav-cta').forEach(btn=>{btn.addEventListener('mousemove',(e)=>{const r=btn.getBoundingClientRect();const x=e.clientX-r.left-r.width/2;const y=e.clientY-r.top-r.height/2;btn.style.transform=`translate(${x*0.15}px,${y*0.15}px) translateY(-2px)`;});btn.addEventListener('mouseleave',()=>{btn.style.transform='';});});
+const heroCard=document.querySelector('.hero-card');
+if(heroCard){heroCard.addEventListener('mousemove',(e)=>{const r=heroCard.getBoundingClientRect();const x=e.clientX-r.left;const y=e.clientY-r.top;heroCard.style.background=`radial-gradient(circle at ${x}px ${y}px, rgba(0,212,255,0.06), var(--bg-card) 60%)`;});heroCard.addEventListener('mouseleave',()=>{heroCard.style.background='';});}
+document.querySelectorAll('.spec-item,.test-card,.cm,.tarif-row').forEach(card=>{card.addEventListener('mousemove',(e)=>{const r=card.getBoundingClientRect();const x=e.clientX-r.left;const y=e.clientY-r.top;card.style.background=`radial-gradient(circle at ${x}px ${y}px, rgba(0,212,255,0.04), transparent 60%)`;});card.addEventListener('mouseleave',()=>{card.style.background='';});});
+const progressBar=document.createElement('div');
+progressBar.style.cssText='position:fixed;top:0;left:0;height:2px;background:var(--gradient);z-index:10001;transition:width 0.1s linear;width:0';
+document.body.appendChild(progressBar);
+window.addEventListener('scroll',()=>{const h=document.documentElement.scrollHeight-window.innerHeight;progressBar.style.width=(window.pageYOffset/h*100)+'%';});
+const contactForm=document.getElementById('contactForm'),formMsg=document.getElementById('formMessage');
+contactForm.addEventListener('submit',async(e)=>{e.preventDefault();const btn=contactForm.querySelector('button[type="submit"]'),orig=btn.innerHTML;btn.disabled=true;btn.innerHTML='Envoi en cours...';formMsg.className='form-msg';formMsg.style.display='none';try{const res=await fetch('https://api.web3forms.com/submit',{method:'POST',body:new FormData(contactForm)});const data=await res.json();if(data.success){formMsg.className='form-msg success';formMsg.textContent='✅ Message envoyé ! Je vous réponds sous 24h.';contactForm.reset();setTimeout(()=>{formMsg.style.display='none'},5000)}else throw new Error(data.message||'Erreur')}catch(err){formMsg.className='form-msg error';formMsg.textContent='❌ Erreur. Appelez-moi au 06 37 12 76 88'}finally{btn.disabled=false;btn.innerHTML=orig}});
+</script>
+</body>
+</html>
