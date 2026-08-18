@@ -202,6 +202,18 @@ a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,s
 .btn-cfg-outline{background:rgba(255,255,255,0.05);border:1px solid var(--border);color:var(--text)}
 .btn-cfg-outline:hover{background:rgba(255,255,255,0.09)}
 
+
+/* Bloc de prix des configs : budget composants (client) + montage (moi) */
+.cfg-price-block{margin-top:14px;padding:14px 16px;background:rgba(255,255,255,0.03);border:1px solid var(--border-soft);border-radius:var(--radius)}
+.cfg-price-label{font-size:0.7rem;letter-spacing:1.4px;text-transform:uppercase;color:var(--text-3);font-weight:700;margin-bottom:2px}
+.cfg-price-block .cfg-price-row{margin-top:0}
+.cfg-price-sep{height:1px;background:var(--border-soft);margin:12px 0}
+.cfg-montage{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+.cfg-montage-lbl{font-size:0.84rem;color:var(--text-2);font-weight:500}
+.cfg-montage-val{font-size:1.15rem;font-weight:800;color:var(--blue);letter-spacing:-0.02em;white-space:nowrap}
+.cfg-nomarge{display:flex;align-items:flex-start;gap:8px;margin-top:11px;font-size:0.76rem;color:var(--green);font-weight:600;line-height:1.45}
+.cfg-nomarge svg{flex-shrink:0;margin-top:1px}
+
 /* GALERIE */
 .gallery-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .gallery-grid.large{grid-template-columns:repeat(3,1fr);gap:20px}
